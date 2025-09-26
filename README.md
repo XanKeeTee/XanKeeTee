@@ -1,5 +1,5 @@
 <div align = "center"> 
-<h1 align = "center">𝕭𝖎𝖊𝖓𝖛𝖊𝖓𝖎𝖉𝖔 𝖆 𝖒𝖎 𝖕𝖊𝖗𝖋𝖎𝖑 👍</h1>
+<h1 align = "center">𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 𝔭𝔯𝔬𝔣𝔦𝔩𝔢 👍</h1>
 
 <img src="3cddd65b741761997e9e3caf61be7404.gif" height="200" width="1000">
 
@@ -7,7 +7,7 @@
 
 ## I am a 2nd year DAW student and a technician in Microcomputer Systems and Networks.
 
-- 📚 Actualmente estoy aprendiendo sobre Backend y Frontend 😅
+- 📚 I am currently learning about Backend and Frontend 😅
 - 💪🏼 Future goals: Learn more about other technologies - Never stop creating new ideas.
 - ⚡ Die-hard fan of LocoWin.
 
