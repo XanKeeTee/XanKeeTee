@@ -1,3 +1,4 @@
+<div align = "center"> 
 <h1 align = "center">Bienvenido a mi perfil👋</h1>
 
 <!--
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
