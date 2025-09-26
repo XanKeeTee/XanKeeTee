@@ -14,6 +14,6 @@
 ---
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/uommackbn3sptly6ctrxvh7zi)
+[![Spotify]([[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uommackbn3sptly6ctrxvh7zi&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=uommackbn3sptly6ctrxvh7zi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=240000&interchange=true&bar_color=53b14f&bar_color_cover=true)]])](https://open.spotify.com/user/uommackbn3sptly6ctrxvh7zi)
 
 ---
