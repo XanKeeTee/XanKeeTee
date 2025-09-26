@@ -12,6 +12,7 @@
 - ⚡ Fan aferrimo de LocoWin.
 
 ---
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 ### Actualmente escuchando🎧
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uommackbn3sptly6ctrxvh7zi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
