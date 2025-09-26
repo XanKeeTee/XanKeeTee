@@ -1,7 +1,7 @@
 <div align = "center"> 
 <h1 align = "center">Bienvenido a mi perfil👋</h1>
 
-<img src="images.stamusercontent.gif">
+<img src="images.steamusercontent.gif">
 <!--
 **XanKeeTee/XanKeeTee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
