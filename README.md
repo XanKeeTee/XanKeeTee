@@ -1,4 +1,4 @@
-<h1 alliing = "center">Bienvenido a mi perfil👋</h1>
+<h1 alling = "center">Bienvenido a mi perfil👋</h1>
 
 <!--
 **XanKeeTee/XanKeeTee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
