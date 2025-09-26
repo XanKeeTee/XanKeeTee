@@ -1,7 +1,7 @@
 <div align = "center"> 
 <h1 align = "center">Bienvenido a mi perfil👋</h1>
 
-<img src="3cddd65b741761997e9e3caf61be7404.gif">
+<img src="3cddd65b741761997e9e3caf61be7404.gif" height="100" weight="600">
 <!--
 **XanKeeTee/XanKeeTee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
