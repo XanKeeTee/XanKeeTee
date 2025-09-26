@@ -1,6 +1,7 @@
 <div align = "center"> 
 <h1 align = "center">Bienvenido a mi perfil👋</h1>
 
+<img src="https://steamcommunity.com/sharedfiles/filedetails/?id=597835664"></img>
 <!--
 **XanKeeTee/XanKeeTee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
