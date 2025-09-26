@@ -5,20 +5,20 @@
 
 </div>
 
-## Soy estudiante de 2ºDAW y tecnico en Sistemas Microinformaticos y Redes
+## I am a 2nd year DAW student and a technician in Microcomputer Systems and Networks.
 
 - 📚 Actualmente estoy aprendiendo sobre Backend y Frontend 😅
-- 💪🏼 Futuras metas: Aprender mas sobre otras tecnologias - Nunca parar de crear nuevas idedas.
-- ⚡ Fan aferrimo de LocoWin.
+- 💪🏼 Future goals: Learn more about other technologies - Never stop creating new ideas.
+- ⚡ Die-hard fan of LocoWin.
 
 ---
 <img align="right" alt="GIF" height="125px" src="Gengar.gif" />
 
-### Actualmente escuchando🎧
+### Spotify🎧
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=uommackbn3sptly6ctrxvh7zi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
-### Lenguajes y Programas 🛠 
+### Languajes and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -38,7 +38,7 @@
 ---
 <br/>
 
-  <h2 align="center"> Estadisticas Github 📈 </h2>
+  <h2 align="center"> Github Stats 📈 </h2>
   
   <div> 
      <a href="">
