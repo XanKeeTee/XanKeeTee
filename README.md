@@ -1,5 +1,5 @@
 <div align = "center"> 
-<h1 align = "center">𝔚𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔪𝔶 𝔭𝔯𝔬𝔣𝔦𝔩𝔢 👍</h1>
+<h1 align = "center">Welcome to my profile 👍</h1>
 
 <img src="3cddd65b741761997e9e3caf61be7404.gif" height="200" width="1000">
 
@@ -49,5 +49,3 @@
 <br/>
 
 ---
-
-<img src="3cddd65b741761997e9e3caf61be7404.gif" height="200" width="1000">
