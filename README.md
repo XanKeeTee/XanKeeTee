@@ -9,8 +9,6 @@
 
 - 📚 I am currently learning about Backend and Frontend 😅
 - 💪🏼 Future goals: Learn more about other technologies - Never stop creating new ideas.
-- ⚡ Die-hard fan of LocoWin.
-
 ---
 <img align="right" alt="GIF" height="125px" src="Gengar.gif" />
 
