@@ -21,16 +21,25 @@
 
 ## 🚀 Sobre mí
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 Soy **Miguel**, conocido en la red como **XanKeeTee** — actualmente estudiando el ciclo de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, tras haber completado ya **Desarrollo de Aplicaciones Web (DAW)**.
 
 Me gusta construir aplicaciones y APIs escalables, y sigo mejorando mi comprensión de sistemas reales tanto en frontend como en backend.
 
 Mi objetivo es simple: escribir código limpio, construir software fiable y crecer como desarrollador que crea sistemas que perduran.
 
-<div align="right">
-  <!-- Reemplaza esta imagen por tu propia ilustración -->
-  <img src="lateral.jpg" alt="about" width="250" />
-</div>
+</td>
+<td valign="top" width="40%" align="center">
+
+<!-- Reemplaza esta imagen por tu propia ilustración -->
+<img src="lateral.jpg" alt="about" width="250" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -53,7 +62,10 @@ Mi objetivo es simple: escribir código limpio, construir software fiable y crec
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis,git,github,vscode,html,css,c,aws,nodejs,ts,linux,vercel,gcp" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis,git,github,vscode&perline=8" alt="Tech Stack" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,c,aws,nodejs,ts,linux,vercel,gcp&perline=9" alt="Tech Stack" />
 </p>
 
 ---
