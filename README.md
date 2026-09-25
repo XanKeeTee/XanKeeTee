@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Reemplaza esta imagen por tu propia ilustración/banner -->
-<img src="URL_DE_TU_IMAGEN_BANNER" alt="banner" width="100%" />
+<img src="banner.jpg" alt="banner" width="100%" />
 
 </div>
 
