@@ -2,6 +2,7 @@
 <h1 align = "center">Welcome to my profile 👍</h1>
 
 <img src="3cddd65b741761997e9e3caf61be7404.gif" height="200" width="1000">
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=madushadhanushka&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
 
 </div>
 
