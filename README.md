@@ -74,7 +74,7 @@ Mi objetivo es simple: escribir código limpio, construir software fiable y crec
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XanKeeTee&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XanKeeTee&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=XanKeeTee&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
