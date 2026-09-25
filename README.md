@@ -5,13 +5,11 @@
 
 </div>
 
-<h3 align="center">Hi 👋, Imma Shady</h3>
+<h3 align="center">Hi 👋, I'm Miguel</h3>
 
-<h4 align="center">Backend Developer</h4>
+<h4 align="center">FullStack Developer</h4>
 
-<p align="center">
-  <code>Just Code</code>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Just+Code;Backend+Developer;Clean+Code+Enthusiast" alt="Typing SVG" /> </p> <p align="center"> Building reliable backend systems with clean architecture and scalable solutions. </p>
 
 <p align="center">
   Building reliable backend systems with clean architecture and scalable solutions.
