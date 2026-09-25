@@ -62,10 +62,10 @@ Mi objetivo es simple: escribir código limpio, construir software fiable y crec
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis,git,github,vscode&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,java,html,bootstrap,tailwind,python,git&perline=7" alt="Tech Stack" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,c,aws,nodejs,ts,linux,vercel,gcp&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=windows,docker,github,vscode,php,mysql&perline=6" alt="Tech Stack" />
 </p>
 
 ---
@@ -73,9 +73,13 @@ Mi objetivo es simple: escribir código limpio, construir software fiable y crec
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XanKeeTee&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XanKeeTee&show_icons=true&theme=dark&hide_border=true&cache_seconds=0" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=XanKeeTee&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
+<!-- Si la de arriba no carga (la demo pública a veces se satura), prueba este mirror en su lugar:
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=XanKeeTee&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+-->
+
 
 ---
 
@@ -84,3 +88,6 @@ Mi objetivo es simple: escribir código limpio, construir software fiable y crec
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=XanKeeTee&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
+<!-- Si no carga, prueba este mirror alternativo de la comunidad:
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=XanKeeTee&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
+-->
