@@ -31,7 +31,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 
 <div align="right">
   <!-- Reemplaza esta imagen por tu propia ilustración -->
-  <img src="URL_DE_TU_IMAGEN_ABOUT" alt="about" width="250" />
+  <img src="lateral.jpg" alt="about" width="250" />
 </div>
 
 ---
