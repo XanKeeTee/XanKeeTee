@@ -86,8 +86,5 @@ Mi objetivo es simple: escribir código limpio, construir software fiable y crec
 ## 📈 Gráfico de actividad
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XanKeeTee&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=XanKeeTee&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
 </p>
-<!-- Si no carga, prueba este mirror alternativo de la comunidad:
-<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=XanKeeTee&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%" />
--->
