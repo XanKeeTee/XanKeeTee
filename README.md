@@ -73,7 +73,7 @@ Mi objetivo es simple: escribir código limpio, construir software fiable y crec
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XanKeeTee&show_icons=true&theme=dark&hide_border=true&cache_seconds=0" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=XanKeeTee&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=XanKeeTee&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 <!-- Si la de arriba no carga (la demo pública a veces se satura), prueba este mirror en su lugar:
